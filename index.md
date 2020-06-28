@@ -4,6 +4,6 @@
 
 Zero it - Relaxing puzzle game
 
-### Contact
+Contact:
 E-mail - satoshigamesapp@gmail.com
 Twitter - https://twitter.com/JohnyOndis
