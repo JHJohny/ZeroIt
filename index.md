@@ -8,7 +8,7 @@ Contact:
 E-mail - satoshigamesapp@gmail.com
 Twitter - https://twitter.com/JohnyOndis
 
-About Zero it - 
+### About Zero it - 
 Zero it is a simple one-finger where you are supposed to find a pattern to bring all squares to zero by tapping on them. Each tap decrease it's and surrounding squares by 1. 
 
 Relaxing puzzles have never been so calm and easy to understand. You won't see easier mechanics in any other mobile game. It's a new concept of logic puzzle games. It doesn't matter if you are a fan of math games or just want to relax a little bit. 
